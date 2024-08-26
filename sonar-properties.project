@@ -1,1 +1,3 @@
-
+sonar.projectKey=Nodetest
+sonar.organization=project
+sonar.sources=.
